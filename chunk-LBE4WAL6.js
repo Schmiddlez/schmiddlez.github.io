@@ -1,0 +1,1 @@
+var r="http",e="schmiddlez.duckdns.org",s={here:()=>`${r}://app.${e}`,discord:()=>"https://discord.com",resume:()=>`${r}://resume.${e}`,loa:()=>`${r}://loa.${e}`,mudae:()=>`${r}://mudae.${e}`,sns:()=>`${r}://sns.${e}`};export{s as a};
