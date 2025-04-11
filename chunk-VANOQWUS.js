@@ -1,1 +1,0 @@
-import{ob as i}from"./chunk-6543YJRO.js";var o=(()=>{class r{transform(t,e){return Array.isArray(t)?(t.sort(e),t):[]}static{this.\u0275fac=function(e){return new(e||r)}}static{this.\u0275pipe=i({name:"orderBy",type:r,pure:!0})}}return r})();export{o as OrderByPipe};

@@ -1,0 +1,1 @@
+var a={id:"invalid",username:"invalid_user",displayName:"Invalid User",about:"",avatar:"",articles:0,pictorials:0,comments:0,likes:[],follows:[],followCount:0,read_announcements:[],created_on:new Date,last_updated_on:new Date};export{a};
