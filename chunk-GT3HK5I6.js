@@ -1,0 +1,1 @@
+var o="http";var n={here:()=>`${o}://${window.location.host}`,discord:()=>"https://discord.com",resume:()=>`${o}://${window.location.hostname}:8090`,loa:()=>`${o}://${window.location.hostname}:8081`,mudae:()=>`${o}://${window.location.hostname}:8080`,sns:()=>`${o}://${window.location.hostname}:8082`};export{n as a};
