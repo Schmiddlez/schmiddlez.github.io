@@ -1,0 +1,1 @@
+import{sb as n}from"./chunk-UUT3EF6T.js";var o=(()=>{class r{transform(t,e){if(!Array.isArray(t))return[];let i=[...t];return i.sort(e),i}static{this.\u0275fac=function(e){return new(e||r)}}static{this.\u0275pipe=n({name:"nonMutatingOrderBy",type:r,pure:!0})}}return r})();export{o as NonMutatingOrderByPipe};
