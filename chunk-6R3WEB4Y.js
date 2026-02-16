@@ -1,0 +1,1 @@
+var t=(function(d){return d.linkColor="lightskyblue",d.discordBorder="#2b2b2b",d.discordMenu="#2b2b2b",d.discordMenuText="#999696",d.discordContent="#313338",d.discordContenttext="#d0d0d0",d.discordType="#383a40",d})(t||{});export{t as a};

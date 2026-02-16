@@ -1,0 +1,1 @@
+import{a as o}from"./chunk-YLX6JSE3.js";import{ca as r}from"./chunk-W56RDURX.js";var a=(()=>{class t extends o{static{this.PICTORIAL_SERVICE_URL="/pictorials"}constructor(){super(t.PICTORIAL_SERVICE_URL)}static{this.\u0275fac=function(e){return new(e||t)}}static{this.\u0275prov=r({token:t,factory:t.\u0275fac,providedIn:"root"})}}return t})();export{a};
